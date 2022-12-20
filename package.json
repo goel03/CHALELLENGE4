@@ -1,0 +1,27 @@
+{
+  "name": "ejs-challenge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start" :"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.13.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goel03/BOSSChallenge4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/goel03/BOSSChallenge4/issues"
+  },
+  "homepage": "https://github.com/goel03/BOSSChallenge4#readme",
+  "description": ""
+}
